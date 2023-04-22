@@ -14,7 +14,7 @@ import java.util.*;
 
 public class Bot extends TelegramLongPollingBot {
     final private String BOT_TOKEN = "###";
-    final private String BOT_NAME = "@nemytestbot";
+    final private String BOT_NAME = "###";
     Storage storage;
     ReplyKeyboardMarkup replyKeyboardMarkup;
 
