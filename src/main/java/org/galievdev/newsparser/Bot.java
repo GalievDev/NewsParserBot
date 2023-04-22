@@ -13,7 +13,7 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import java.util.*;
 
 public class Bot extends TelegramLongPollingBot {
-    final private String BOT_TOKEN = "5028104220:AAH_atRQkB3LEN8nJRCO3XoHdfbpBk9CLwI";
+    final private String BOT_TOKEN = "###";
     final private String BOT_NAME = "@nemytestbot";
     Storage storage;
     ReplyKeyboardMarkup replyKeyboardMarkup;
